@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    font : italic;
+    background-color: yellow;
+}
+body{
+    background-color: pink;
+}
+button{
+    background-color: red;
+    color: white;
+}
